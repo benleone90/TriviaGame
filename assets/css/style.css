@@ -1,0 +1,5 @@
+body,
+.jumbotron {
+    background-image: url(/assets/images/what-the-hex.png);
+    background-color: #cccccc;
+}
