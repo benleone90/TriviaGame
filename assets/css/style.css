@@ -1,13 +1,13 @@
-@font-face {font-family:"STARWARS";src:url("STARWARS.eot?") format("eot"),url("STARWARS.woff") format("woff"),url("STARWARS.ttf") format("truetype"),url("STARWARS.svg#STARWARS") format("svg");font-weight:normal;font-style:normal;}
+@font-face {font-family:"STARWARS";src:url("../css/STARWARS.eot") format("eot"),url("../css/STARWARS.woff") format("woff"),url("../css/STARWARS.ttf") format("truetype"),url("../css/STARWARS.svg") format("svg");font-weight:normal;font-style:normal;}
 
 body {
-    background-image: url(/assets/images/starwarsbg.jpg);
+    background-image: url(../images/starwarsbg.jpg);
     background-color: #cccccc;
     background-size: 100% auto; 
 }
 
 .jumbotron {
-    background-image: url(/assets/images/starwarsbg.jpg);
+    background-image: url(../images/starwarsbg.jpg);
     background-color: #cccccc;
     background-size: 100% auto;
     margin: 40px;
